@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="c7c6700c-0d70-47e8-b0f1-ef477fb566a2" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,11 +11,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JupyterTrust" id="0fc5eab1-ef40-474a-b7ee-8d83c01313f0" />
   <component name="MacroExpansionManager">
     <option name="directoryName" value="001vgh1h" />
   </component>
   <component name="ProjectId" id="1nbodKE3S9TE64HVIbLOQuzNNeK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,11 +45,23 @@
       <updated>1611668236391</updated>
       <workItem from="1611668237463" duration="100000" />
       <workItem from="1611668354454" duration="54000" />
+      <workItem from="1611747078805" duration="435000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1611668327781">
